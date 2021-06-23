@@ -1,12 +1,15 @@
-### Hi there 👋
+## Hello everyone! 👋
 
-# I'm Lucas Rodrigues Moro
+My name is Lucas Moro, I'm a mobile software development student.
 
-Student at [Instituto Federal Farroupilha - Campus Avançado Uruguaiana](https://www.iffarroupilha.edu.br/uruguaiana), learning Kotlin on [Alura](https://www.alura.com.br/sobre) and [DIO](https://digitalinnovation.one).
+<a href="https://www.linkedin.com/in/lucasrmoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:lucas.rmoro1@gmail.com?Subject=Título%20da%20mensagem" target="_blank"><img src="https://img.shields.io/badge/-Gmail-lightgray?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/lucasrmoro/)
+## What I've been learning 🤓
 
-# Personal Projects
+I've been studying at [Instituto Federal Farroupilha - Campus Avançado Uruguaiana](https://www.iffarroupilha.edu.br/uruguaiana), learning Kotlin on [Alura](https://www.alura.com.br/sobre) and [DIO](https://digitalinnovation.one).
+
+## Personal Projects ☄
 
 - [Pomodoro App - Kotlin](https://github.com/lucasrmoro/PomodoroApp)
 
