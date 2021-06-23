@@ -9,7 +9,7 @@ My name is Lucas Moro, I'm a mobile software development student.
 
 I've been studying at [Instituto Federal Farroupilha - Campus Avançado Uruguaiana](https://www.iffarroupilha.edu.br/uruguaiana), learning Kotlin on [Alura](https://www.alura.com.br/sobre) and [DIO](https://digitalinnovation.one).
 
-## Personal Projects ☄
+## Personal Projects 💥
 
 - [Pomodoro App - Kotlin](https://github.com/lucasrmoro/PomodoroApp)
 
