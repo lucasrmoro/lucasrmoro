@@ -8,6 +8,6 @@ Student at [Instituto Federal Farroupilha - Campus Avançado Uruguaiana](https:/
 
 # Personal Projects
 
--[Pomodoro App - Kotlin](https://github.com/lucasrmoro/PomodoroApp)
+- [Pomodoro App - Kotlin](https://github.com/lucasrmoro/PomodoroApp)
 
--[Dev Quiz - Flutter](https://github.com/lucasrmoro/DevQuiz)
+- [Dev Quiz - Flutter](https://github.com/lucasrmoro/DevQuiz)
