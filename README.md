@@ -11,6 +11,8 @@ I've been studying at [Instituto Federal Farroupilha - Campus Avançado Uruguaia
 
 ## Personal Repositories 💥
 
+- [To Do App - Kotlin](https://github.com/lucasrmoro/ToDoListSantanderBootcamp)
+
 - [Pomodoro App - Kotlin](https://github.com/lucasrmoro/PomodoroApp)
 
 - [Dev Quiz - Flutter](https://github.com/lucasrmoro/DevQuiz)
