@@ -7,7 +7,7 @@ My name is Lucas Moro, I'm a beginner Android developer.
 
 ## What I've been learning 🤓
 
-I'm coursing Software Engineering at [Unopar](https://www.unopar.com.br/institucional/nossa-historia/) and IT technical course at [Instituto Federal Farroupilha - Campus Avançado Uruguaiana](https://www.iffarroupilha.edu.br/uruguaiana). Besidaes that, I'm studying independently Android with Kotlin with help from [Alura](https://www.alura.com.br/sobre), [DIO](https://digitalinnovation.one) and [Udemy](https://about.udemy.com/?locale=en-us).
+I'm coursing Software Engineering at [Unopar](https://www.unopar.com.br/institucional/nossa-historia/) and IT technical course at [Instituto Federal Farroupilha - Campus Avançado Uruguaiana](https://www.iffarroupilha.edu.br/uruguaiana). Besidaes that, I'm studying independently Android with Kotlin on [Alura](https://www.alura.com.br/sobre), [DIO](https://digitalinnovation.one) and [Udemy](https://about.udemy.com/?locale=en-us).
 
 ## Personal Repositories 📚
 
