@@ -7,8 +7,6 @@ My name is Lucas Moro, I'm an Android developer.
 
 ## Personal Repositories 📚
 
-- [To Do App - Kotlin](https://github.com/lucasrmoro/ToDoListSantanderBootcamp)
-
-- [Pomodoro App - Kotlin](https://github.com/lucasrmoro/PomoTimer)
+- [Pokedex](https://github.com/lucasrmoro/Pokedex)
 
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrmoro)](https://github.com/lucasrmoro/lucasrmoro)
