@@ -8,5 +8,3 @@ My name is Lucas Moro, I'm an Android developer.
 ## Personal Repositories 📚
 
 - [Pokedex](https://github.com/lucasrmoro/Pokedex)
-
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrmoro)](https://github.com/lucasrmoro/lucasrmoro)
